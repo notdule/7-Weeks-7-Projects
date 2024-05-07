@@ -6,4 +6,6 @@ Every program has to have specific goals/requirements it needs to fulfill!
 Most programs will have to require 10h+ per week.
 
 Project for Week 1: Portfolio Website 
-Requirements:
+Requirements: Website should have Navbar,
+Fully functional Home, Contact, Projects & About me sections,
+Website should be made using JS, Html & Css! (React Framework *optional*)
