@@ -9,4 +9,4 @@ Project for Week 1: Portfolio Website
 Requirements: Website should have Navbar,
 Fully functional Home, Contact, Projects & About me sections,
 Website should be made using JS, Html & Css! (React Framework *optional*)
-May 13th - May 20th
+May 27th - June 2nd
