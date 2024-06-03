@@ -12,6 +12,8 @@ Learn how to use Flutter.
 App will be Available on Android and pc!
 June 2nd - June 9th
 
+Day 1:
+
 Project - Portfolio Website
 Requirements: Website should have Navbar,
 Fully functional Home, Contact, Projects & About me sections,
